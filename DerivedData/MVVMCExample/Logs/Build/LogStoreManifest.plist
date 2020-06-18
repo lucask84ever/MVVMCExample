@@ -5,6 +5,313 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>0AC48E07-842C-4204-8907-59AAEB5ED1B0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0AC48E07-842C-4204-8907-59AAEB5ED1B0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVVMCExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVVMCExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVVMCExample</string>
+			<key>timeStartedRecording</key>
+			<real>613079183.79962599</real>
+			<key>timeStoppedRecording</key>
+			<real>613079187.04802203</real>
+			<key>title</key>
+			<string>Build MVVMCExample</string>
+			<key>uniqueIdentifier</key>
+			<string>0AC48E07-842C-4204-8907-59AAEB5ED1B0</string>
+		</dict>
+		<key>1808D623-58A1-4057-B0C1-DFDA611C37D2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1808D623-58A1-4057-B0C1-DFDA611C37D2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVVMCExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVVMCExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVVMCExample</string>
+			<key>timeStartedRecording</key>
+			<real>613078473.80192101</real>
+			<key>timeStoppedRecording</key>
+			<real>613078477.14911699</real>
+			<key>title</key>
+			<string>Build MVVMCExample</string>
+			<key>uniqueIdentifier</key>
+			<string>1808D623-58A1-4057-B0C1-DFDA611C37D2</string>
+		</dict>
+		<key>19E373C8-FECA-4528-83DA-501B7F7F798F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>19E373C8-FECA-4528-83DA-501B7F7F798F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVVMCExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVVMCExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVVMCExample</string>
+			<key>timeStartedRecording</key>
+			<real>613080009.97651994</real>
+			<key>timeStoppedRecording</key>
+			<real>613080013.46275795</real>
+			<key>title</key>
+			<string>Build MVVMCExample</string>
+			<key>uniqueIdentifier</key>
+			<string>19E373C8-FECA-4528-83DA-501B7F7F798F</string>
+		</dict>
+		<key>1B00C1B2-DD57-4270-A99F-09E049755B3F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1B00C1B2-DD57-4270-A99F-09E049755B3F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVVMCExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVVMCExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVVMCExample</string>
+			<key>timeStartedRecording</key>
+			<real>613079672.55173802</real>
+			<key>timeStoppedRecording</key>
+			<real>613079675.81984305</real>
+			<key>title</key>
+			<string>Build MVVMCExample</string>
+			<key>uniqueIdentifier</key>
+			<string>1B00C1B2-DD57-4270-A99F-09E049755B3F</string>
+		</dict>
+		<key>40FD5B79-F85A-42C0-88A9-C72E87CD5B47</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>40FD5B79-F85A-42C0-88A9-C72E87CD5B47.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVVMCExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVVMCExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVVMCExample</string>
+			<key>timeStartedRecording</key>
+			<real>613079479.36217701</real>
+			<key>timeStoppedRecording</key>
+			<real>613079480.84112298</real>
+			<key>title</key>
+			<string>Build MVVMCExample</string>
+			<key>uniqueIdentifier</key>
+			<string>40FD5B79-F85A-42C0-88A9-C72E87CD5B47</string>
+		</dict>
+		<key>8A9AAA03-6E23-48B1-A480-1039958F72CD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8A9AAA03-6E23-48B1-A480-1039958F72CD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVVMCExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVVMCExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVVMCExample</string>
+			<key>timeStartedRecording</key>
+			<real>613078967.01460099</real>
+			<key>timeStoppedRecording</key>
+			<real>613078972.386271</real>
+			<key>title</key>
+			<string>Build MVVMCExample</string>
+			<key>uniqueIdentifier</key>
+			<string>8A9AAA03-6E23-48B1-A480-1039958F72CD</string>
+		</dict>
+		<key>A635B5C0-6231-4CF6-B87B-AF2B9A01A7EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A635B5C0-6231-4CF6-B87B-AF2B9A01A7EF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVVMCExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVVMCExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVVMCExample</string>
+			<key>timeStartedRecording</key>
+			<real>613079195.53850996</real>
+			<key>timeStoppedRecording</key>
+			<real>613079203.38202703</real>
+			<key>title</key>
+			<string>Build MVVMCExample</string>
+			<key>uniqueIdentifier</key>
+			<string>A635B5C0-6231-4CF6-B87B-AF2B9A01A7EF</string>
+		</dict>
+		<key>D6FA4C11-B5E5-4441-8D9B-1270E17673C3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D6FA4C11-B5E5-4441-8D9B-1270E17673C3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVVMCExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVVMCExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVVMCExample</string>
+			<key>timeStartedRecording</key>
+			<real>613079486.47928703</real>
+			<key>timeStoppedRecording</key>
+			<real>613079489.04805005</real>
+			<key>title</key>
+			<string>Build MVVMCExample</string>
+			<key>uniqueIdentifier</key>
+			<string>D6FA4C11-B5E5-4441-8D9B-1270E17673C3</string>
+		</dict>
+		<key>ECF60CC6-310D-45C8-938B-67523A86B114</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ECF60CC6-310D-45C8-938B-67523A86B114.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVVMCExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVVMCExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVVMCExample</string>
+			<key>timeStartedRecording</key>
+			<real>613079705.23646104</real>
+			<key>timeStoppedRecording</key>
+			<real>613079705.32132995</real>
+			<key>title</key>
+			<string>Build MVVMCExample</string>
+			<key>uniqueIdentifier</key>
+			<string>ECF60CC6-310D-45C8-938B-67523A86B114</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

@@ -15,6 +15,19 @@
 		CD4ACA2F248AC5100039AE7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD4ACA2D248AC5100039AE7E /* LaunchScreen.storyboard */; };
 		CD4ACA3A248AC5100039AE7E /* MVVMCExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD4ACA39248AC5100039AE7E /* MVVMCExampleTests.swift */; };
 		CD4ACA45248AC5100039AE7E /* MVVMCExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD4ACA44248AC5100039AE7E /* MVVMCExampleUITests.swift */; };
+		CD4ACA57248ACE850039AE7E /* Bindable.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD4ACA56248ACE850039AE7E /* Bindable.swift */; };
+		CD4ACA59248AD0CB0039AE7E /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD4ACA58248AD0CB0039AE7E /* ViewModel.swift */; };
+		CD4ACA5B248AD5A00039AE7E /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD4ACA5A248AD59F0039AE7E /* User.swift */; };
+		F21FE1782497B5B90022B4DB /* APIService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F21FE1772497B5B90022B4DB /* APIService.swift */; };
+		F21FE17A2497C60F0022B4DB /* String+.swift in Sources */ = {isa = PBXBuildFile; fileRef = F21FE1792497C60F0022B4DB /* String+.swift */; };
+		F21FE17C2497C8660022B4DB /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = F21FE17B2497C8660022B4DB /* Book.swift */; };
+		F21FE17E2497CB440022B4DB /* BookListService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F21FE17D2497CB440022B4DB /* BookListService.swift */; };
+		F21FE1812497CC050022B4DB /* BookRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F21FE1802497CC050022B4DB /* BookRequest.swift */; };
+		F21FE184249906240022B4DB /* BookListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F21FE182249906240022B4DB /* BookListTableViewCell.swift */; };
+		F21FE185249906240022B4DB /* BookListTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F21FE183249906240022B4DB /* BookListTableViewCell.xib */; };
+		F252B8E524940E4B00934597 /* APIBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F252B8E424940E4B00934597 /* APIBuilder.swift */; };
+		F252B8E8249419A300934597 /* Data+.swift in Sources */ = {isa = PBXBuildFile; fileRef = F252B8E7249419A300934597 /* Data+.swift */; };
+		F2E3E1492499133D006D4907 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2E3E1482499133D006D4907 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +62,19 @@
 		CD4ACA40248AC5100039AE7E /* MVVMCExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MVVMCExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD4ACA44248AC5100039AE7E /* MVVMCExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVMCExampleUITests.swift; sourceTree = "<group>"; };
 		CD4ACA46248AC5100039AE7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CD4ACA56248ACE850039AE7E /* Bindable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bindable.swift; sourceTree = "<group>"; };
+		CD4ACA58248AD0CB0039AE7E /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
+		CD4ACA5A248AD59F0039AE7E /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		F21FE1772497B5B90022B4DB /* APIService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIService.swift; sourceTree = "<group>"; };
+		F21FE1792497C60F0022B4DB /* String+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+.swift"; sourceTree = "<group>"; };
+		F21FE17B2497C8660022B4DB /* Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
+		F21FE17D2497CB440022B4DB /* BookListService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookListService.swift; sourceTree = "<group>"; };
+		F21FE1802497CC050022B4DB /* BookRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookRequest.swift; sourceTree = "<group>"; };
+		F21FE182249906240022B4DB /* BookListTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookListTableViewCell.swift; sourceTree = "<group>"; };
+		F21FE183249906240022B4DB /* BookListTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BookListTableViewCell.xib; sourceTree = "<group>"; };
+		F252B8E424940E4B00934597 /* APIBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIBuilder.swift; sourceTree = "<group>"; };
+		F252B8E7249419A300934597 /* Data+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Data+.swift"; sourceTree = "<group>"; };
+		F2E3E1482499133D006D4907 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,9 +125,9 @@
 		CD4ACA21248AC50E0039AE7E /* MVVMCExample */ = {
 			isa = PBXGroup;
 			children = (
-				CD4ACA22248AC50E0039AE7E /* AppDelegate.swift */,
-				CD4ACA24248AC50E0039AE7E /* SceneDelegate.swift */,
-				CD4ACA26248AC50E0039AE7E /* ViewController.swift */,
+				F252B8E6249418FD00934597 /* Extension */,
+				CD4ACA55248AC9BD0039AE7E /* Common */,
+				CD4ACA52248AC9680039AE7E /* Scenes */,
 				CD4ACA28248AC50E0039AE7E /* Main.storyboard */,
 				CD4ACA2B248AC5100039AE7E /* Assets.xcassets */,
 				CD4ACA2D248AC5100039AE7E /* LaunchScreen.storyboard */,
@@ -126,6 +152,75 @@
 				CD4ACA46248AC5100039AE7E /* Info.plist */,
 			);
 			path = MVVMCExampleUITests;
+			sourceTree = "<group>";
+		};
+		CD4ACA52248AC9680039AE7E /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				CD4ACA53248AC96E0039AE7E /* BookList */,
+				CD4ACA54248AC99C0039AE7E /* BookDetail */,
+			);
+			path = Scenes;
+			sourceTree = "<group>";
+		};
+		CD4ACA53248AC96E0039AE7E /* BookList */ = {
+			isa = PBXGroup;
+			children = (
+				F21FE17F2497CBEB0022B4DB /* Models */,
+				CD4ACA26248AC50E0039AE7E /* ViewController.swift */,
+				CD4ACA58248AD0CB0039AE7E /* ViewModel.swift */,
+				CD4ACA5A248AD59F0039AE7E /* User.swift */,
+				F21FE17D2497CB440022B4DB /* BookListService.swift */,
+				F21FE1862499062F0022B4DB /* View */,
+			);
+			path = BookList;
+			sourceTree = "<group>";
+		};
+		CD4ACA54248AC99C0039AE7E /* BookDetail */ = {
+			isa = PBXGroup;
+			children = (
+				F2E3E1482499133D006D4907 /* DetailViewController.swift */,
+			);
+			path = BookDetail;
+			sourceTree = "<group>";
+		};
+		CD4ACA55248AC9BD0039AE7E /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				CD4ACA22248AC50E0039AE7E /* AppDelegate.swift */,
+				CD4ACA24248AC50E0039AE7E /* SceneDelegate.swift */,
+				CD4ACA56248ACE850039AE7E /* Bindable.swift */,
+				F252B8E424940E4B00934597 /* APIBuilder.swift */,
+				F21FE1772497B5B90022B4DB /* APIService.swift */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		F21FE17F2497CBEB0022B4DB /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				F21FE17B2497C8660022B4DB /* Book.swift */,
+				F21FE1802497CC050022B4DB /* BookRequest.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		F21FE1862499062F0022B4DB /* View */ = {
+			isa = PBXGroup;
+			children = (
+				F21FE182249906240022B4DB /* BookListTableViewCell.swift */,
+				F21FE183249906240022B4DB /* BookListTableViewCell.xib */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		F252B8E6249418FD00934597 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				F252B8E7249419A300934597 /* Data+.swift */,
+				F21FE1792497C60F0022B4DB /* String+.swift */,
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,6 +327,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F21FE185249906240022B4DB /* BookListTableViewCell.xib in Resources */,
 				CD4ACA2F248AC5100039AE7E /* LaunchScreen.storyboard in Resources */,
 				CD4ACA2C248AC5100039AE7E /* Assets.xcassets in Resources */,
 				CD4ACA2A248AC50E0039AE7E /* Main.storyboard in Resources */,
@@ -259,8 +355,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD4ACA59248AD0CB0039AE7E /* ViewModel.swift in Sources */,
+				F252B8E524940E4B00934597 /* APIBuilder.swift in Sources */,
+				F21FE17A2497C60F0022B4DB /* String+.swift in Sources */,
+				F21FE17C2497C8660022B4DB /* Book.swift in Sources */,
+				F21FE17E2497CB440022B4DB /* BookListService.swift in Sources */,
 				CD4ACA27248AC50E0039AE7E /* ViewController.swift in Sources */,
+				F21FE184249906240022B4DB /* BookListTableViewCell.swift in Sources */,
+				F252B8E8249419A300934597 /* Data+.swift in Sources */,
+				F21FE1812497CC050022B4DB /* BookRequest.swift in Sources */,
+				CD4ACA5B248AD5A00039AE7E /* User.swift in Sources */,
 				CD4ACA23248AC50E0039AE7E /* AppDelegate.swift in Sources */,
+				CD4ACA57248ACE850039AE7E /* Bindable.swift in Sources */,
+				F2E3E1492499133D006D4907 /* DetailViewController.swift in Sources */,
+				F21FE1782497B5B90022B4DB /* APIService.swift in Sources */,
 				CD4ACA25248AC50E0039AE7E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -435,7 +543,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 7YLU734KBX;
+				DEVELOPMENT_TEAM = 6TPDR2543G;
 				INFOPLIST_FILE = MVVMCExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -453,7 +561,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 7YLU734KBX;
+				DEVELOPMENT_TEAM = 6TPDR2543G;
 				INFOPLIST_FILE = MVVMCExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
