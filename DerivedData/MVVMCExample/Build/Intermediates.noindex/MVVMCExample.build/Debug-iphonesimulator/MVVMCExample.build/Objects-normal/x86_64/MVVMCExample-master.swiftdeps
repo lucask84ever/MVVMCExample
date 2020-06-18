@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "afa903a35223f9535faf8120bba97b0e"
+build_time: [1591387210, 214063000]
+inputs:
+  "/Users/ginaldojunior/Desktop/MVVMCExample/MVVMCExample/Scenes/MovieList/ViewModel.swift": [1591387202, 627817324]
+  "/Users/ginaldojunior/Desktop/MVVMCExample/MVVMCExample/Scenes/MovieList/ViewController.swift": [1591386872, 542041809]
+  "/Users/ginaldojunior/Desktop/MVVMCExample/MVVMCExample/Scenes/MovieList/User.swift": [1591385654, 678939396]
+  "/Users/ginaldojunior/Desktop/MVVMCExample/MVVMCExample/Common/AppDelegate.swift": [1591381390, 351262201]
+  "/Users/ginaldojunior/Desktop/MVVMCExample/MVVMCExample/Common/Bindable.swift": [1591387182, 750585665]
+  "/Users/ginaldojunior/Desktop/MVVMCExample/MVVMCExample/Common/SceneDelegate.swift": [1591381390, 363032260]
